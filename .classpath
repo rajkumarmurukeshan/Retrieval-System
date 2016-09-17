@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Rajkumar/Documents/Information Retrieval/Assignment/lucene-4.7.2/lucene-4.7.2/analysis/common/lucene-analyzers-common-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajkumar/Documents/Information Retrieval/Assignment/Assignment1/IR-Assignment1/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajkumar/Desktop/IR Submission/murukeshan.r_HW_3/lucene-core-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajkumar/Desktop/IR Submission/murukeshan.r_HW_3/lucene-queryparser-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajkumar/Documents/Information Retrieval/Project/jaws-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
